@@ -1,0 +1,18 @@
+uuid: f3b852bf-72fe-4773-aeba-2c581756e8d7
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.storelocations
+id: node.storelocations.title
+field_name: title
+entity_type: node
+bundle: storelocations
+label: address
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
